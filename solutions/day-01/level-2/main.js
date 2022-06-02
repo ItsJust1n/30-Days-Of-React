@@ -1,1 +1,2 @@
-console.log(web_techs.webTechs)
+import webTecs from './web_techs'
+console.log(webTechs)
